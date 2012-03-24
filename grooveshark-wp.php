@@ -3,12 +3,12 @@
 Plugin Name: Grooveshark WP
 Plugin URI: http://plugins.jrseoservices.com/grooveshark-wp-plugin
 Description: Displays your recent Grooveshark plays as a widget.
-Version: 1.0.1
-Author: JR SEO
-Author URI: http://www.jrseoservices.com
+Version: 1.5
+Author: Podz
+Author URI: 
 */
 
-/*  Copyright 2011 JR SEO - support@jrseoservices.com
+/*  Copyright 2011 
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -190,7 +190,7 @@ endforeach;
   $Groovesharkdisp .= "</ul>";
   
 if ($supportplugin=="Yes" || $supportplugin=="") {
-$Groovesharkdisp .= "<p style='font-size:x-small'>Grooveshark Plugin made by <a href='http://www.open-office-download.net'>Open Office</a>.</p>";
+$Groovesharkdisp .= "";
 }
 
 $Groovesharkdisp .= $after_widget;

@@ -1,10 +1,10 @@
 === Plugin Name ===
-Contributors: JR SEO
-Donate link: http://www.jrseoservices.com
+Contributors: Podz
+Donate link: 
 Tags: youtube, grooveshark, music, video, widget, widgets, plugin, post, pages
 Requires at least: 2.0.2
 Tested up to: 3.2.1
-Stable tag: 1.0.1
+Version: 1.5
 
 This Grooveshark plugin allows you to show your recently played Grooveshark songs and display them in a list (With links) as a widget on your blog.
 
